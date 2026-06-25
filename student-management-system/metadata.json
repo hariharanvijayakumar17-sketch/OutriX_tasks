@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "An Enterprise Student Management System for managing student profiles, demographics, enrollments, reports, and activity logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
